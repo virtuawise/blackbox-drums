@@ -5,8 +5,9 @@ licences ask.
 
 ## NEC/Casio uPD933 emulation (MAME)
 
-Blackbox Drums' CZ sound chip model (its oscillators, windows and envelopes) follows the uPD933 emulation in MAME,
-`src/devices/sound/upd933.cpp`, by Devin Acker, used under the BSD 3-Clause License:
+Blackbox Drums' CZ sound chip model (its oscillators, windows and envelopes) follows the uPD933
+emulation in MAME, `src/devices/sound/upd933.cpp`, by Devin Acker, used under the BSD 3-Clause
+License:
 
 ```
 Copyright (c) Devin Acker
